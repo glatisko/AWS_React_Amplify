@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-hplus-dev-73218-authRole",
+      "UnauthRoleArn": "arn:aws:iam::986658070644:role/amplify-hplus-dev-73218-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::986658070644:role/amplify-hplus-dev-73218-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-hplus-dev-73218-deployment",
+      "UnauthRoleName": "amplify-hplus-dev-73218-unauthRole",
+      "StackName": "amplify-hplus-dev-73218",
+      "StackId": "arn:aws:cloudformation:us-east-1:986658070644:stack/amplify-hplus-dev-73218/9798fc90-680e-11ed-ae1b-12c8a5dfee67",
+      "AmplifyAppId": "d2k73s5261prh9"
+    }
+  }
+}
